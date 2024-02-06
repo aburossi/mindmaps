@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.15.6/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.15.6/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.15.6/dist/index.js"></script><script>(r => {
+                setTimeout(r);
+              })(() => {
+  const {
+    markmap,
+    mm
+  } = window;
+  const {
+    el
+  } = markmap.Toolbar.create(mm);
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root2, jsonOptions) => {
+                const markmap = getMarkmap();
+                window.mm = markmap.Markmap.create(
+                  "svg#mindmap",
+                  (getOptions || markmap.deriveOptions)(jsonOptions),
+                  root2
+                );
+              })(() => window.markmap,null,{"type":"heading","depth":0,"payload":{"lines":[0,1]},"content":"Espresso Rechtsfrage: Preisangaben und Aktionspreise","children":[{"type":"heading","depth":1,"payload":{"lines":[2,3]},"content":"Einführung","children":[{"type":"list_item","depth":2,"payload":{"lines":[3,4]},"content":"Vorweihnachtszeit ist bekannt für Geschenkeeinkäufe und Aktionen.","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[4,5]},"content":"Konsumenten werden durch attraktive Rabatte zum Kauf angeregt.","children":[]}]},{"type":"heading","depth":1,"payload":{"lines":[6,7]},"content":"Hauptthema","children":[{"type":"list_item","depth":2,"payload":{"lines":[7,8]},"content":"Eine Kundin findet ein Buch in einer Aktionskiste mit 70% Rabatt.","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[8,9]},"content":"An der Kasse wird ihr jedoch mitgeteilt, dass das Buch nicht Teil der Aktion sei.","children":[]}]},{"type":"heading","depth":1,"payload":{"lines":[10,11]},"content":"Rechtliche Grundlagen","children":[{"type":"list_item","depth":2,"payload":{"lines":[11,12]},"content":"Die Preisbekanntgabeverordnung besagt, dass angegebene Preise gelten.","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[12,13]},"content":"Konsumenten können Preise und Produkte basierend auf diesen Angaben vergleichen.","children":[]}]},{"type":"heading","depth":1,"payload":{"lines":[14,15]},"content":"Theoretische Durchsetzbarkeit des Rabatts","children":[{"type":"list_item","depth":2,"payload":{"lines":[15,16]},"content":"Kunden könnten theoretisch darauf bestehen, den ausgewiesenen Rabatt zu erhalten.","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[16,17]},"content":"Praktisch ist eine Diskussion an der Kasse oft mühsam und unklar.","children":[]}]},{"type":"heading","depth":1,"payload":{"lines":[18,19]},"content":"Problemstellungen","children":[{"type":"heading","depth":2,"payload":{"lines":[19,20]},"content":"Rechtliche Irrtümer","children":[{"type":"list_item","depth":3,"payload":{"lines":[20,21]},"content":"<strong>Erklärungsirrtum</strong>: Verkäufer könnte sich auf einen <strong>wesentlichen</strong> Irrtum berufen.","children":[]},{"type":"list_item","depth":3,"payload":{"lines":[21,22]},"content":"<strong>Beweisbarkeit</strong>: Schwierig zu beweisen, wer das Buch in die Kiste gelegt hat.","children":[]}]},{"type":"heading","depth":2,"payload":{"lines":[23,24]},"content":"Was bedeutet wesentlich?","children":[{"type":"list_item","depth":3,"payload":{"lines":[24,25]},"content":"Ein Irrtum ist wesentlich, wenn die Preisabweichung erheblich ist.","children":[]},{"type":"list_item","depth":3,"payload":{"lines":[25,26]},"content":"Beispiel: Buch kostet statt 35 CHF nur 10.50 CHF mit 70% Rabatt.","children":[]}]}]},{"type":"heading","depth":1,"payload":{"lines":[27,28]},"content":"Ausnahmen und Grenzen","children":[{"type":"list_item","depth":2,"payload":{"lines":[28,29]},"content":"Preise in Prospekten, Katalogen oder im Internet sind unverbindlich.","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[29,30]},"content":"Grobe Fehler bei der Preisangabe können die Verbindlichkeit aufheben.","children":[]}]},{"type":"heading","depth":1,"payload":{"lines":[31,32]},"content":"Schlussfolgerung","children":[{"type":"list_item","depth":2,"payload":{"lines":[32,33]},"content":"Angegebene Preise sind grundsätzlich verbindlich.","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[33,34]},"content":"Ausnahmen gelten bei wesentlichen Irrtümern und schweren Fehlern in der Preisangabe.","children":[]}]}]},{"colorFreezeLevel":2,"maxWidth":300,"initialExpandLevel":1})</script>
+</body>
+</html>
