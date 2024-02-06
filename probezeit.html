@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.15.6/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.15.6/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.15.6/dist/index.js"></script><script>(r => {
+                setTimeout(r);
+              })(() => {
+  const {
+    markmap,
+    mm
+  } = window;
+  const {
+    el
+  } = markmap.Toolbar.create(mm);
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root2, jsonOptions) => {
+                const markmap = getMarkmap();
+                window.mm = markmap.Markmap.create(
+                  "svg#mindmap",
+                  (getOptions || markmap.deriveOptions)(jsonOptions),
+                  root2
+                );
+              })(() => window.markmap,null,{"type":"heading","depth":0,"payload":{"lines":[0,1]},"content":"Probezeit und Kündigung bei Krankheit","children":[{"type":"heading","depth":1,"payload":{"lines":[2,3]},"content":"Grundlagen","children":[{"type":"list_item","depth":2,"payload":{"lines":[3,4]},"content":"Die Probezeit ermöglicht es beiden Parteien, das Arbeitsverhältnis unkompliziert zu beenden.","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[4,5]},"content":"Während der Probezeit können Arbeitgeber und Arbeitnehmer ohne Angabe von Gründen kündigen.","children":[]}]},{"type":"heading","depth":1,"payload":{"lines":[6,7]},"content":"Kündigungsschutz","children":[{"type":"list_item","depth":2,"payload":{"lines":[7,8]},"content":"Außerhalb der Probezeit besteht Kündigungsschutz bei Schwangerschaft, Unfällen, Militärdienst und Krankheit.","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[8,9]},"content":"<strong>Während der Probezeit</strong> gilt dieser Kündigungsschutz <strong>nicht</strong>.","children":[]}]},{"type":"heading","depth":1,"payload":{"lines":[10,11]},"content":"Besonderer Fall: Temporäre Anstellung","children":[{"type":"list_item","depth":2,"payload":{"lines":[11,12]},"content":"Nach temporärer Anstellung ist eine erneute Probezeit bei Festanstellung zulässig.","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[12,13]},"content":"Dies ist auch der Fall, wenn die temporäre Arbeit durch eine Zeitarbeitsfirma vermittelt wurde.","children":[]}]},{"type":"heading","depth":1,"payload":{"lines":[14,15]},"content":"Abteilungswechsel","children":[{"type":"list_item","depth":2,"payload":{"lines":[15,16]},"content":"Bei einem Abteilungswechsel innerhalb des gleichen Betriebs ist normalerweise keine neue Probezeit vorgesehen.","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[16,17]},"content":"Ausnahme: Übernahme einer neuen Funktion, z.B. Führungsposition.","children":[]}]},{"type":"heading","depth":1,"payload":{"lines":[18,19]},"content":"Lohnzahlung bei Krankheit während der Probezeit","children":[{"type":"list_item","depth":2,"payload":{"lines":[19,20]},"content":"Bei Kündigung während der Probezeit besteht kein Anspruch auf Lohnzahlung für Krankheitstage.","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[20,21]},"content":"Eine Krankentaggeldversicherung des Arbeitgebers könnte Leistungen bieten.","children":[]}]},{"type":"heading","depth":1,"payload":{"lines":[22,23]},"content":"Empfehlungen","children":[{"type":"list_item","depth":2,"payload":{"lines":[23,24]},"content":"Arbeitnehmer sollten ihren Arbeitsvertrag auf eine Krankentaggeldversicherung prüfen.","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[24,25]},"content":"Beide Vorteile und Risiken der Probezeit bedenken.","children":[]}]}]},{"colorFreezeLevel":2,"maxWidth":300,"initialExpandLevel":1})</script>
+</body>
+</html>
