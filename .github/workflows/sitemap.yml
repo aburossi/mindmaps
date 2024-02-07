@@ -1,0 +1,30 @@
+name: Generate Sitemap
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '**.html'
+      - '**.md'
+      - 'docs/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout the repo
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Generate the sitemap
+      uses: cicirello/generate-sitemap@v1
+      with:
+        base-url-path: 'https://aburossi.github.io/'
+        path-to-root: './mindmaps' # Use 'docs' or other directory if your site root is not the repo root.
+        include-html: true
+        include-pdf: true # Set to false if you don't want PDFs in your sitemap.
+        # additional-extensions: 'docx pptx' # Uncomment and modify if you need additional file types.
+        # exclude-paths: '/exclude-this-directory /exclude-this-file.html' # Uncomment and modify to exclude paths.
+        # drop-html-extension: true # Uncomment and set to true if you want to drop .
