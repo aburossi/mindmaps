@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.15.6/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.15.6/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.15.6/dist/index.js"></script><script>(r => {
+                setTimeout(r);
+              })(() => {
+  const {
+    markmap,
+    mm
+  } = window;
+  const {
+    el
+  } = markmap.Toolbar.create(mm);
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root2, jsonOptions) => {
+                const markmap = getMarkmap();
+                window.mm = markmap.Markmap.create(
+                  "svg#mindmap",
+                  (getOptions || markmap.deriveOptions)(jsonOptions),
+                  root2
+                );
+              })(() => window.markmap,null,{"type":"heading","depth":0,"payload":{"lines":[1,2]},"content":"AHV-Initiative in der Schweiz","children":[{"type":"heading","depth":1,"payload":{"lines":[3,4]},"content":"Kontext","children":[{"type":"heading","depth":2,"payload":{"lines":[4,5]},"content":"Debatte um 13. AHV-Rente","children":[{"type":"list_item","depth":3,"payload":{"lines":[5,6]},"content":"Bis zu 300'000 Pensionierte armutsgefährdet oder arm","children":[]},{"type":"list_item","depth":3,"payload":{"lines":[6,7]},"content":"Forderung nach 13. AHV-Rente von Gewerkschaften und linken Parteien","children":[]}]},{"type":"heading","depth":2,"payload":{"lines":[8,9]},"content":"Statistische Relativierung","children":[{"type":"list_item","depth":3,"payload":{"lines":[9,10]},"content":"Gegner betrachten nur Einkommen, nicht Vermögen oder Lebenssituation","children":[]},{"type":"list_item","depth":3,"payload":{"lines":[10,11]},"content":"Einigkeit über Existenz armer älterer Menschen","children":[]}]}]},{"type":"heading","depth":1,"payload":{"lines":[12,13]},"content":"Zusammenfassung","children":[{"type":"heading","depth":2,"payload":{"lines":[13,14]},"content":"Fallbeispiel Monika Bleuer","children":[{"type":"list_item","depth":3,"payload":{"lines":[14,15]},"content":"Pensionierung mit geringem Einkommen","children":[]},{"type":"list_item","depth":3,"payload":{"lines":[15,16]},"content":"Einkommensquellen: Alimente und Nebenjobs","children":[]},{"type":"list_item","depth":3,"payload":{"lines":[16,17]},"content":"Ausgabenmanagement und Sparmaßnahmen","children":[]}]},{"type":"heading","depth":2,"payload":{"lines":[18,19]},"content":"Politische Meinungen","children":[{"type":"list_item","depth":3,"payload":{"lines":[19,20]},"content":"Unterschiedliche Ansichten zur Lösung der Armut bei Rentnern","children":[]},{"type":"list_item","depth":3,"payload":{"lines":[20,21]},"content":"Vorschläge: 13. AHV-Rente vs. Anpassung der Rentenformel","children":[]}]}]},{"type":"heading","depth":1,"payload":{"lines":[22,23]},"content":"Warum es wichtig ist","children":[{"type":"heading","depth":2,"payload":{"lines":[23,24]},"content":"Soziale Sicherheit","children":[{"type":"list_item","depth":3,"payload":{"lines":[24,25]},"content":"AHV als Grundpfeiler der sozialen Sicherheit in der Schweiz","children":[]},{"type":"list_item","depth":3,"payload":{"lines":[25,26]},"content":"Debatte über ausreichende Deckung des Existenzbedarfs","children":[]}]},{"type":"heading","depth":2,"payload":{"lines":[27,28]},"content":"Politische Entscheidung","children":[{"type":"list_item","depth":3,"payload":{"lines":[28,29]},"content":"Abstimmung über 13. AHV-Rente als Richtungsentscheidung","children":[]},{"type":"list_item","depth":3,"payload":{"lines":[29,30]},"content":"Diskussion über effektivste Maßnahmen zur Armutsbekämpfung","children":[]}]}]},{"type":"heading","depth":1,"payload":{"lines":[31,32]},"content":"Wirtschaftliche Aspekte","children":[{"type":"heading","depth":2,"payload":{"lines":[32,33]},"content":"Einkommen vs. Ausgaben","children":[{"type":"list_item","depth":3,"payload":{"lines":[33,34]},"content":"Rentner mit geringem Einkommen und hohen Ausgaben","children":[]},{"type":"list_item","depth":3,"payload":{"lines":[34,35]},"content":"Ergänzungsleistungen als mögliche Unterstützung","children":[]}]},{"type":"heading","depth":2,"payload":{"lines":[36,37]},"content":"Finanzierung der Vorschläge","children":[{"type":"list_item","depth":3,"payload":{"lines":[37,38]},"content":"Unterschiedliche Ansichten zur Finanzierung (Lohnprozente vs. Mehrwertsteuer)","children":[]}]}]},{"type":"heading","depth":1,"payload":{"lines":[39,40]},"content":"Soziale Folgen","children":[{"type":"heading","depth":2,"payload":{"lines":[40,41]},"content":"Lebensqualität im Alter","children":[{"type":"list_item","depth":3,"payload":{"lines":[41,42]},"content":"Einfluss der finanziellen Situation auf die Lebensqualität","children":[]},{"type":"list_item","depth":3,"payload":{"lines":[42,43]},"content":"Beispiel Monika Bleuer: Anpassung und Zufriedenheit trotz finanzieller Einschränkungen","children":[]}]},{"type":"heading","depth":2,"payload":{"lines":[44,45]},"content":"Zugang zu Ergänzungsleistungen","children":[{"type":"list_item","depth":3,"payload":{"lines":[45,46]},"content":"Problematik der Nichtinanspruchnahme berechtigter Leistungen","children":[]}]}]},{"type":"heading","depth":1,"payload":{"lines":[47,48]},"content":"Politische Perspektiven","children":[{"type":"heading","depth":2,"payload":{"lines":[48,49]},"content":"Linke Parteien","children":[{"type":"list_item","depth":3,"payload":{"lines":[49,50]},"content":"Befürwortung der 13. AHV-Rente zur Deckung des Existenzbedarfs","children":[]}]},{"type":"heading","depth":2,"payload":{"lines":[51,52]},"content":"Mitte-Rechts-Parteien","children":[{"type":"list_item","depth":3,"payload":{"lines":[52,53]},"content":"Vorschlag zur Änderung der Rentenformel","children":[]},{"type":"list_item","depth":3,"payload":{"lines":[53,54]},"content":"Kritik an der 13. AHV-Rente wegen ungleicher Verteilungswirkung","children":[]}]}]},{"type":"heading","depth":1,"payload":{"lines":[55,56]},"content":"Links","children":[{"type":"heading","depth":2,"payload":{"lines":[56,57]},"content":"<a href=\"https://www.google.ch/search?q=AHV-Initiative&amp;tbm=nws\">News@AHV-Initiative</a>","children":[]},{"type":"heading","depth":2,"payload":{"lines":[57,58]},"content":"<a href=\"https://www.google.ch/search?q=AHV-Initiative&amp;tbm=vid\">Videos@AHV-Initiative</a>","children":[]}]}]},{"colorFreezeLevel":2,"maxWidth":300,"initialExpandLevel":2})</script>
+</body>
+</html>
