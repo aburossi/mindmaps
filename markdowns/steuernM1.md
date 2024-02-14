@@ -2,7 +2,7 @@
 markmap:
   colorFreezeLevel: 2
   maxWidth: 300
-  initialExpandLevel: 3
+  initialExpandLevel: 2
 ---
 
 # Steueroptimierung
