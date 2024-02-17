@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.15.6/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.15.6/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.15.6/dist/index.js"></script><script>(r => {
+                setTimeout(r);
+              })(() => {
+  const {
+    markmap,
+    mm
+  } = window;
+  const {
+    el
+  } = markmap.Toolbar.create(mm);
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root2, jsonOptions) => {
+                const markmap = getMarkmap();
+                window.mm = markmap.Markmap.create(
+                  "svg#mindmap",
+                  (getOptions || markmap.deriveOptions)(jsonOptions),
+                  root2
+                );
+              })(() => window.markmap,null,{"type":"heading","depth":0,"payload":{"lines":[1,2]},"content":"Energiepreise und Armut","children":[{"type":"heading","depth":1,"payload":{"lines":[2,3]},"content":"Kontext","children":[{"type":"list_item","depth":2,"payload":{"lines":[3,4]},"content":"Schweiz aktuelle Energiekrise","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[4,5]},"content":"Anstieg von Strom- und Benzinpreisen","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[5,6]},"content":"Auswirkungen auf das Budget von Working Poor","children":[]}]},{"type":"heading","depth":1,"payload":{"lines":[6,7]},"content":"Zusammenfassung","children":[{"type":"list_item","depth":2,"payload":{"lines":[7,8]},"content":"Höhere Kosten für Energie und Treibstoff","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[8,9]},"content":"Zunahme von Verschuldung und Armut","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[9,10]},"content":"Sparmaßnahmen und deren Grenzen","children":[]}]},{"type":"heading","depth":1,"payload":{"lines":[10,11]},"content":"Warum es wichtig ist","children":[{"type":"list_item","depth":2,"payload":{"lines":[11,12]},"content":"Soziale und wirtschaftliche Stabilität","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[12,13]},"content":"Anstieg der Lebenshaltungskosten","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[13,14]},"content":"Bedarf an gezielten Unterstützungsmaßnahmen","children":[]}]},{"type":"heading","depth":1,"payload":{"lines":[14,15]},"content":"Working Poor","children":[{"type":"heading","depth":2,"payload":{"lines":[15,16]},"content":"Definition","children":[{"type":"list_item","depth":3,"payload":{"lines":[16,17]},"content":"Personen, die arbeiten, aber nicht genügend verdienen","children":[]}]},{"type":"heading","depth":2,"payload":{"lines":[17,18]},"content":"Herausforderungen","children":[{"type":"list_item","depth":3,"payload":{"lines":[18,19]},"content":"Deckung der Grundbedürfnisse","children":[]},{"type":"list_item","depth":3,"payload":{"lines":[19,20]},"content":"Kein Spielraum für Sparmaßnahmen","children":[]}]}]},{"type":"heading","depth":1,"payload":{"lines":[20,21]},"content":"Sparmaßnahmen","children":[{"type":"heading","depth":2,"payload":{"lines":[21,22]},"content":"Praktische Tipps","children":[{"type":"list_item","depth":3,"payload":{"lines":[22,23]},"content":"Duschen statt Baden","children":[]},{"type":"list_item","depth":3,"payload":{"lines":[23,24]},"content":"Gezieltes Heizen","children":[]},{"type":"list_item","depth":3,"payload":{"lines":[24,25]},"content":"Einschränkung der Autonutzung","children":[]}]},{"type":"heading","depth":2,"payload":{"lines":[25,26]},"content":"Grenzen der Einsparung","children":[{"type":"list_item","depth":3,"payload":{"lines":[26,27]},"content":"Notwendigkeit eines Autos für Schichtarbeit","children":[]},{"type":"list_item","depth":3,"payload":{"lines":[27,28]},"content":"Minimale Einsparungen bei bereits sparsamem Lebensstil","children":[]}]}]},{"type":"heading","depth":1,"payload":{"lines":[28,29]},"content":"Verschuldung und Armut","children":[{"type":"heading","depth":2,"payload":{"lines":[29,30]},"content":"Risiko der Verschuldung","children":[{"type":"list_item","depth":3,"payload":{"lines":[30,31]},"content":"Zunehmende Belastung durch Energiekosten","children":[]}]},{"type":"heading","depth":2,"payload":{"lines":[31,32]},"content":"Abgleiten in die Armut","children":[{"type":"list_item","depth":3,"payload":{"lines":[32,33]},"content":"Mangelnde finanzielle Flexibilität","children":[]}]}]},{"type":"heading","depth":1,"payload":{"lines":[33,34]},"content":"Unterstützungsangebote","children":[{"type":"heading","depth":2,"payload":{"lines":[34,35]},"content":"Finanzplanung","children":[{"type":"list_item","depth":3,"payload":{"lines":[35,36]},"content":"Hilfe bei der Budgetierung","children":[]}]},{"type":"heading","depth":2,"payload":{"lines":[36,37]},"content":"Beratungsdienste","children":[{"type":"list_item","depth":3,"payload":{"lines":[37,38]},"content":"Sozial- und Schuldenberatung St. Gallen-Appenzell","children":[]}]}]},{"type":"heading","depth":1,"payload":{"lines":[38,39]},"content":"Links","children":[{"type":"list_item","depth":2,"payload":{"lines":[39,40]},"content":"<a href=\"https://www.google.ch/search?q=Energiepreise+und+Armut&amp;tbm=nws\">News@Energiepreise und Armut</a>","children":[]},{"type":"list_item","depth":2,"payload":{"lines":[40,41]},"content":"<a href=\"https://www.google.ch/search?q=Energiepreise+und+Armut&amp;tbm=vid\">Videos@Energiepreise und Armut</a>","children":[]}]}]},{"colorFreezeLevel":2,"maxWidth":300,"initialExpandLevel":2})</script>
+</body>
+</html>
