@@ -2,7 +2,7 @@
 markmap:
   colorFreezeLevel: 2
   maxWidth: 300
-  initialExpandLevel: 1
+  initialExpandLevel: 2
 ---
 # Espresso Rechtsfrage: Preisangaben und Aktionspreise
 
