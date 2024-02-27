@@ -45,3 +45,30 @@ markmap:
 ## Links
 ### [News@Working Poor in der Schweiz](https://www.google.ch/search?q=Working+Poor+in+der+Schweiz&tbm=nws)
 ### [Videos@Working Poor in der Schweiz](https://www.google.ch/search?q=Working+Poor+in+der+Schweiz&tbm=vid)
+
+## Smartbrevity
+### 🔍Was ist es?
+- Working Poor bezeichnet Personen, die trotz Vollzeitarbeit nicht genügend verdienen, um ihren Lebensunterhalt ohne finanzielle Not zu bestreiten.
+- In der Schweiz leben Menschen, die mit einem Einkommen unter 4'500 Franken arbeiten, unter schwierigen Bedingungen.
+- Die Problematik wird durch steigende Lebenshaltungskosten, wie für Energie, Krankenkassenbeiträge, Lebensmittel und Kleidung, verschärft.
+- Ein Mindestlohn wird als mögliche Lösung diskutiert, um die Situation der Working Poor zu verbessern.
+
+### ❗Warum es wichtig ist?
+- Soziale Gerechtigkeit: Ein faires Einkommen ist grundlegend für die soziale Gerechtigkeit und den sozialen Zusammenhalt.
+- Wirtschaftliche Stabilität: Menschen mit ausreichendem Einkommen können mehr zum Wirtschaftskreislauf beitragen.
+- Gesundheitsrisiken: Finanzielle Not kann zu Gesundheitsproblemen führen, da sich Betroffene oft keine ausreichende medizinische Versorgung leisten können.
+- Bildungschancen: Kinder aus Familien der Working Poor haben oft schlechtere Bildungschancen.
+- Politische Teilhabe: Finanzielle Sicherheit ermöglicht eine aktivere Teilnahme am politischen und gesellschaftlichen Leben.
+
+### ⛏Wie es funktioniert?
+- Der Mindestlohn soll sicherstellen, dass alle Arbeitnehmenden genug verdienen, um ihre Grundbedürfnisse zu decken.
+- Sozialleistungen und Unterstützungsangebote können temporär helfen, doch adressieren sie nicht die Wurzel des Problems der Working Poor.
+- Arbeitsmarktregulierungen könnten angepasst werden, um faire Löhne und Arbeitsbedingungen zu fördern.
+- Bildungs- und Weiterbildungsangebote verbessern die Beschäftigungsfähigkeit und ermöglichen höhere Einkommen.
+- Politische Initiativen und Volksabstimmungen zu Mindestlöhnen reflektieren den öffentlichen Diskurs und können gesetzliche Änderungen herbeiführen.
+
+### ➕Weitere Quellen
+- 📄 Nachrichten über Working Poor in der Schweiz
+- 🎞 Videos über Working Poor in der Schweiz
+- ⏬ Mindestlohn
+- ⏬ Lebenshaltungskosten in der Schweiz
