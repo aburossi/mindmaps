@@ -8,7 +8,7 @@ markmap:
 # BBK
 ## Tag 1
 - [Intro](https://tools.fobizz.com/teaching_board/public_screens/0550e273-377b-41ab-833f-13028afb1bef?token=b6a14282cc8ddf9f334edfb1332b7dec)
-- [Jugendlichen im Alltag I](https://tools.fobizz.com/teaching_board/screens/22d8cefb-88ff-4fb8-b977-68c79ee07735/pages/bb946e86-e908-4cc5-8205-21ae2e9babe3)
+- [Jugendlichen im Alltag I](https://tools.fobizz.com/teaching_board/public_screens/22d8cefb-88ff-4fb8-b977-68c79ee07735?token=f4bad4d303e01c1152b49944940ad71f)
 - [Der Gute Lernende](https://tools.fobizz.com/teaching_board/public_screens/cc2424aa-90ef-4b56-a65e-92e62a6a84f4?token=280345e87a207a2c38f92cf71392167a)
 - [Entwicklungspsychologie](https://tools.fobizz.com/teaching_board/public_screens/ce61f3f4-76fc-488d-b5d2-847ff231d04e?token=020487d0d9019700110b296ea96663e2)
 - [Jugendlichen im Alltag II](https://tools.fobizz.com/teaching_board/public_screens/118668b5-3595-4ed2-9ab4-5eece201ea41?token=702bb84f5f0e4609989035d2121fe31b)
