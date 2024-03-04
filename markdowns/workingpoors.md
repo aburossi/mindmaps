@@ -72,3 +72,23 @@ markmap:
 - 🎞 Videos über Working Poor in der Schweiz
 - ⏬ Mindestlohn
 - ⏬ Lebenshaltungskosten in der Schweiz
+
+## Fragen
+### 1. Was versteht man unter dem Begriff "Working Poor"?
+- Unter dem Begriff "Working Poor" versteht man Menschen, die zwar vollzeit arbeiten, aber so wenig verdienen, dass ihr Einkommen nicht ausreicht, um den Lebensunterhalt zu bestreiten. Diese Definition ergibt sich aus dem Kontext des Textes, wo es um Personen geht, die trotz Vollzeitarbeit mit finanziellen Schwierigkeiten zu kämpfen haben.
+
+### 2. Wie viel verdient die im Bericht erwähnte Frau aus der Romandie, und welche Probleme ergeben sich daraus für sie und ihre Kinder?
+- Die im Bericht erwähnte Frau aus der Romandie verdient rund 4'000 Franken. Die Probleme, die sich daraus für sie und ihre Kinder ergeben, sind finanzielle Engpässe, die so gravierend sind, dass oft am Ende des Monats nichts übrig bleibt. Manchmal verzichtet sie auf Essen, damit ihre Kinder genug zu essen haben. Dieses Beispiel illustriert die prekäre finanzielle Situation der Working Poor, die trotz Vollzeitarbeit nicht ausreichend für den Grundbedarf aufkommen können.
+
+### 3. Welche Kostenfaktoren verschärfen die Situation der Working Poor in der Schweiz?
+- Die Situation der Working Poor in der Schweiz wird durch mehrere Kostenfaktoren verschärft, darunter die Erhöhungen von Energiekosten, Krankenkassenprämien, Lebensmitteln, Kleidung etc. Diese steigenden Kosten belasten das ohnehin knappe Budget der Betroffenen zusätzlich, sodass ihnen fast nichts mehr zum Kauf von Lebensmitteln übrig bleibt.
+
+### 4. Warum ist die Debatte um einen Mindestlohn in der Schweiz relevant?
+- Die Debatte um einen Mindestlohn in der Schweiz ist relevant, da es Personen gibt, die in der Industrie oder im Dienstleistungssektor arbeiten und versuchen müssen, mit einem Einkommen von rund 3'500 Franken eine vierköpfige Familie zu ernähren. Angesichts der Tatsache, dass es Working Poor gibt, die trotz Vollzeitarbeit in finanzielle Not geraten, wird diskutiert, ob die Einführung eines Mindestlohns eine notwendige Maßnahme ist, um solche Situationen zu verhindern und die Lebensbedingungen der Betroffenen zu verbessern.
+
+### 5. Was sind die Argumente der Befürworter und Gegner eines Mindestlohns?
+Die Argumente der Befürworter eines Mindestlohns, repräsentiert durch Veronique Polito, **Vizepräsidentin** der Gewerkschaft Unia, beziehen sich wahrscheinlich auf die Notwendigkeit, ein existenzsicherndes Einkommen für alle Arbeitnehmer zu gewährleisten, um Armut und finanzielle Unsicherheit zu bekämpfen. Die Gegner eines Mindestlohns, vertreten durch Simon Weil, den Chefökonom vom Arbeitgeberverband, argumentieren, dass das bestehende System der Lohnverhandlungen zwischen den Sozialpartnern in der Schweiz gut funktioniert und dass der Lohn in den meisten Fällen ausreicht, um ein gutes Leben zu führen. Dort, wo das Einkommen nicht ausreicht, sieht das bestehende System staatliche Unterstützungsleistungen vor, um die betroffenen Personen zu unterstützen. Die Gegner eines Mindestlohns befürchten möglicherweise negative Auswirkungen auf die Wirtschaft und den Arbeitsmarkt.
+
+## Transkript
+- markdowns\workingpoors.md
+
