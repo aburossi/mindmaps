@@ -22,3 +22,29 @@ Die Frau eines Espressohörers hat gerade kürzlich eine neue Stelle angefangen 
 | 1. **Finden Sie 3 Quellen, die erklären,** wie die Probezeitregelungen in verschiedenen Kantonen der Schweiz aussehen. | Lehrer können die Diskussion leiten, indem sie fragen, wie diese Unterschiede die Arbeitsmarktchancen in verschiedenen Regionen beeinflussen könnten. |
 | 2. **Finden Sie 3 Quellen, die die Vor- und Nachteile** einer längeren Probezeit aus Arbeitnehmer- und Arbeitgebersicht darstellen. | Anregung zur Diskussion über, wie die Vor- und Nachteile die Arbeitsbeziehung beeinflussen und ob eine Balance gefunden werden kann. |
 | 3. **Finden Sie 3 Quellen zum Thema Kündigungsschutz** nach der Probezeit in öffentlich-rechtlichen und privaten Sektoren. | Anleitung zur Reflexion darüber, wie unterschiedlicher Kündigungsschutz die Jobwahl beeinflussen könnte und was das für die Arbeitsplatzsicherheit bedeutet. |
+
+# 🔍Was ist es?
+- **Probezeit** ist eine Anfangsphase im Arbeitsverhältnis, die es Arbeitgebern und Arbeitnehmern ermöglicht, die Eignung für eine Stelle zu bewerten.
+- In der Schweiz ist die **übliche Dauer** der Probezeit **drei Monate**, kann aber je nach Vertrag und Arbeitgeber variieren.
+- Bei **öffentlichen Arbeitgebern** kann die Probezeit bis zu **sechs Monate** dauern, basierend auf kantonalem Personalrecht.
+- Während der Probezeit gelten verkürzte **Kündigungsfristen**.
+
+# ❗Warum es wichtig ist?
+- Ermöglicht eine **flexible Beurteilungszeit** für beide Parteien.
+- Schafft eine **rechtliche Grundlage** für die Anfangsphase des Arbeitsverhältnisses.
+- Bietet die Möglichkeit, das Arbeitsverhältnis mit **minimalem Risiko** zu beenden, falls es nicht den Erwartungen entspricht.
+- Unterschiedliche Regelungen (**privat vs. öffentlich**) zeigen die Vielfalt des Schweizer Arbeitsrechts.
+- Längere Probezeiten bei öffentlichen Arbeitgebern können einen **besseren Kündigungsschutz** nach der Probezeit bieten.
+
+# ⛏Wie es funktioniert?
+- Das **Obligationenrecht** regelt die maximale Dauer der Probezeit auf **drei Monate** für private Arbeitgeber.
+- Für öffentlich-rechtliche Arbeitgeber kann das **kantonale Personalrecht** abweichende Regelungen vorsehen, wie eine Probezeit von bis zu **sechs Monaten**.
+- Während der Probezeit beträgt die Kündigungsfrist in der Regel **sieben Tage**.
+- Nach der Probezeit verbessern sich die Kündigungsbedingungen, wobei für eine Kündigung **sachliche Gründe** erforderlich sind.
+
+# ➕Weitere Quellen
+- [📄 News über Probezeit in der Schweiz](https://www.google.com/search?q=Probezeit+in+der+Schweiz&tbm=nws)
+- [🎞 Videos über Probezeit in der Schweiz](https://www.google.com/search?q=Probezeit+in+der+Schweiz&tbm=vid)
+- [⏬ Obligationenrecht](https://www.google.com/search?q=Obligationenrecht)
+- [⏬ Kantonales Personalrecht](https://www.google.com/search?q=Kantonales+Personalrecht)
+- [⏬ Kündigungsschutz](https://www.google.com/search?q=Kündigungsschutz)
