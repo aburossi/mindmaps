@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transkripts/nachbefragungAHV.md",
+                "file": "transkripts/nach.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transkripts/nachbefragungAHV.md",
+                "file": "transkripts/nach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transkripts/nachbefragungAHV.md",
+                "file": "transkripts/nach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transkripts/nachbefragungAHV.md"
+                "file": "transkripts/nach.md"
               }
             }
           }
@@ -173,10 +173,11 @@
   },
   "active": "a77ef8c325d4ab0c",
   "lastOpenFiles": [
+    "_gpts.md",
     "transkripts/nach.md",
+    "transkripts/nachbefragungAHV.md",
     "ahvnach.html",
     "markdowns/nachbefragungahv.md",
-    "transkripts/nachbefragungAHV.md",
     "markdowns/65.md",
     "ahvv2.md",
     "markdowns/13ahv.md"
