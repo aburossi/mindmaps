@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transkripts/nach.md",
+                "file": "transkripts/steuernM1.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transkripts/nach.md",
+                "file": "transkripts/steuernM1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transkripts/nach.md",
+                "file": "transkripts/steuernM1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transkripts/nach.md"
+                "file": "transkripts/steuernM1.md"
               }
             }
           }
@@ -173,8 +173,11 @@
   },
   "active": "a77ef8c325d4ab0c",
   "lastOpenFiles": [
-    "_gpts.md",
+    "markdowns/steuernM1.md",
+    "markdowns/BBK.md",
+    "markdowns/IU+.md",
     "transkripts/nach.md",
+    "_gpts.md",
     "transkripts/nachbefragungAHV.md",
     "ahvnach.html",
     "markdowns/nachbefragungahv.md",
