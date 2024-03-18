@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "markdowns/temu.md",
+                "file": "transkripts/temu.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdowns/temu.md",
+                "file": "transkripts/temu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdowns/temu.md",
+                "file": "transkripts/temu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "markdowns/temu.md"
+                "file": "transkripts/temu.md"
               }
             }
           }
@@ -197,9 +197,10 @@
   },
   "active": "49c3652563b1f220",
   "lastOpenFiles": [
+    "transkripts/lohnerhoehung.md",
+    "markdowns/temu.md",
     "temu.html",
     "markdowns/arbeitszeugnis.md",
-    "markdowns/temu.md",
     "transkripts/temu.md",
     "markdowns/13ahv.md",
     "transkripts/13ahv.md",
