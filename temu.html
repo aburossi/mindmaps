@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.16.0/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.16.0/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.16.0/dist/index.js"></script><script>(r => {
+                setTimeout(r);
+              })(() => {
+  const {
+    markmap,
+    mm
+  } = window;
+  const {
+    el
+  } = markmap.Toolbar.create(mm);
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root2, jsonOptions) => {
+              const markmap = getMarkmap();
+              window.mm = markmap.Markmap.create(
+                "svg#mindmap",
+                (getOptions || markmap.deriveOptions)(jsonOptions),
+                root2
+              );
+            })(() => window.markmap,null,{"content":"Temu's Erfolg","children":[{"content":"Kontext","children":[{"content":"Expansion nach Europa","children":[],"payload":{"lines":"3,4"}},{"content":"Vergleichbarer Umsatz mit Migros Online-Shop","children":[],"payload":{"lines":"4,5"}}],"payload":{"lines":"2,3"}},{"content":"Zusammenfassung","children":[{"content":"<strong>350 Millionen Franken</strong> Umsatz in der Schweiz","children":[],"payload":{"lines":"6,7"}},{"content":"Aggressive Werbung und Tiefpreise","children":[],"payload":{"lines":"7,8"}}],"payload":{"lines":"5,6"}},{"content":"Warum es wichtig ist","children":[{"content":"Beeinflusst lokalen Einzelhandel","children":[],"payload":{"lines":"9,10"}},{"content":"Neue Herausforderungen für etablierte Online-Händler","children":[],"payload":{"lines":"10,11"}}],"payload":{"lines":"8,9"}},{"content":"Werbestrategie","children":[{"content":"Investitionen","children":[{"content":"3 Milliarden Dollar für Werbung","children":[],"payload":{"lines":"13,14"}}],"payload":{"lines":"12,13"}},{"content":"Effekte","children":[{"content":"Hoher Bekanntheitsgrad","children":[],"payload":{"lines":"15,16"}},{"content":"Anziehung neuer Kunden","children":[],"payload":{"lines":"16,17"}}],"payload":{"lines":"14,15"}}],"payload":{"lines":"11,12"}},{"content":"Preisstrategie","children":[{"content":"Verlust pro Produkt","children":[{"content":"10 US-Dollar Verlust pro Verkauf","children":[],"payload":{"lines":"19,20"}}],"payload":{"lines":"18,19"}},{"content":"Langfristige Ziele","children":[{"content":"Marktanteil gewinnen","children":[],"payload":{"lines":"21,22"}},{"content":"Fuß im europäischen Markt fassen","children":[],"payload":{"lines":"22,23"}}],"payload":{"lines":"20,21"}}],"payload":{"lines":"17,18"}},{"content":"Auswirkungen","children":[{"content":"Auf lokale Einzelhändler","children":[{"content":"Potenzielle Verdrängung","children":[],"payload":{"lines":"25,26"}}],"payload":{"lines":"24,25"}},{"content":"Auf Konsumenten","children":[{"content":"Verändertes Kaufverhalten","children":[],"payload":{"lines":"27,28"}},{"content":"Nachfrage nach günstigeren Produkten","children":[],"payload":{"lines":"28,29"}}],"payload":{"lines":"26,27"}}],"payload":{"lines":"23,24"}},{"content":"Herausforderungen","children":[{"content":"Nachhaltigkeit der Strategie","children":[{"content":"Langfristige Profitabilität","children":[],"payload":{"lines":"31,32"}}],"payload":{"lines":"30,31"}},{"content":"Qualität vs. Preis","children":[{"content":"Erwartungen der Konsumenten","children":[],"payload":{"lines":"33,34"}}],"payload":{"lines":"32,33"}}],"payload":{"lines":"29,30"}},{"content":"Links","children":[{"content":"<a href=\"https://www.google.ch/search?q=Temu&amp;tbm=nws\">News@Temu</a>","children":[],"payload":{"lines":"35,36"}},{"content":"<a href=\"https://www.google.ch/search?q=Temu&amp;tbm=vid\">Video@Temu</a>","children":[],"payload":{"lines":"36,37"}},{"content":"<a href=\"https://www.google.com/search?q=E-Commerce-Strategien\">E-Commerce-Strategien</a>","children":[],"payload":{"lines":"37,38"}},{"content":"<a href=\"https://www.google.com/search?q=Auswirkungen+von+Online-Shopping+auf+lokale+Einzelhändler\">Auswirkungen von Online-Shopping auf lokale Einzelhändler</a>","children":[],"payload":{"lines":"38,39"}},{"content":"<a href=\"https://www.google.com/search?q=Nachhaltigkeit+im+Online-Handel\">Nachhaltigkeit im Online-Handel</a>","children":[],"payload":{"lines":"39,40"}}],"payload":{"lines":"34,35"}}],"payload":{"lines":"1,2"}},{"colorFreezeLevel":2,"maxWidth":300,"initialExpandLevel":2})</script>
+</body>
+</html>

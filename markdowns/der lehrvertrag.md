@@ -1,9 +1,12 @@
+---
+markmap:
+  colorFreezeLevel: 2
+  maxWidth: 300
+  initialExpandLevel: 2
+---
 # Der Lehrvertrag
-
 ## Abschluss des Lehrvertrages
-
 ### Rechtliche Grundlagen
-
 - OR 344a / BBG 14 / BBV 8
 
 ### Kontrolle und Genehmigung
