@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.16.0/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.16.0/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.16.0/dist/index.js"></script><script>(r => {
+                setTimeout(r);
+              })(() => {
+  const {
+    markmap,
+    mm
+  } = window;
+  const {
+    el
+  } = markmap.Toolbar.create(mm);
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root2, jsonOptions) => {
+              const markmap = getMarkmap();
+              window.mm = markmap.Markmap.create(
+                "svg#mindmap",
+                (getOptions || markmap.deriveOptions)(jsonOptions),
+                root2
+              );
+            })(() => window.markmap,null,{"content":"Suchtmittelkonsum Jugendliche CH","children":[{"content":"Kontext","children":[{"content":"Altersgruppe","children":[{"content":"15-20 Jahre","children":[],"payload":{"lines":"4,5"}}],"payload":{"lines":"3,4"}},{"content":"Neuartige Produkte","children":[{"content":"E-Zigaretten, Snooze","children":[],"payload":{"lines":"6,7"}}],"payload":{"lines":"5,6"}}],"payload":{"lines":"2,3"}},{"content":"Zusammenfassung","children":[{"content":"Traditionelle vs. neue Suchtmittel","children":[{"content":"Beide Formen beliebt","children":[],"payload":{"lines":"9,10"}}],"payload":{"lines":"8,9"}},{"content":"Geschlechtsspezifische Unterschiede","children":[{"content":"Mädchen: höhere Rate bei E-Zigaretten","children":[],"payload":{"lines":"11,12"}}],"payload":{"lines":"10,11"}}],"payload":{"lines":"7,8"}},{"content":"Warum es wichtig ist","children":[{"content":"Gesundheitsrisiken","children":[{"content":"Abhängigkeit, Krankheiten","children":[],"payload":{"lines":"14,15"}}],"payload":{"lines":"13,14"}},{"content":"Gesellschaftliche Folgen","children":[{"content":"Kosten für das Gesundheitssystem","children":[],"payload":{"lines":"16,17"}}],"payload":{"lines":"15,16"}}],"payload":{"lines":"12,13"}},{"content":"Alkoholkonsum","children":[{"content":"Verbreitung","children":[{"content":"43% der 15-Jährigen trinken monatlich","children":[],"payload":{"lines":"19,20"}}],"payload":{"lines":"18,19"}},{"content":"Risiken","children":[{"content":"Rauschtrinken, Unfälle","children":[],"payload":{"lines":"21,22"}}],"payload":{"lines":"20,21"}}],"payload":{"lines":"17,18"}},{"content":"Tabakkonsum","children":[{"content":"E-Zigaretten","children":[{"content":"8% der Mädchen, 7% der Jungen","children":[],"payload":{"lines":"24,25"}}],"payload":{"lines":"23,24"}},{"content":"Konventionelle Zigaretten","children":[{"content":"Stabil bei Jugendlichen","children":[],"payload":{"lines":"26,27"}}],"payload":{"lines":"25,26"}}],"payload":{"lines":"22,23"}},{"content":"Präventionsbedarf","children":[{"content":"Früher Beginn","children":[{"content":"Risiko für Langzeitabhängigkeit","children":[],"payload":{"lines":"29,30"}}],"payload":{"lines":"28,29"}},{"content":"Politische Maßnahmen","children":[{"content":"Neue Gesetzgebung für Tabakprodukte","children":[],"payload":{"lines":"31,32"}}],"payload":{"lines":"30,31"}}],"payload":{"lines":"27,28"}},{"content":"Links","children":[{"content":"<a href=\"https://www.google.ch/search?q=Suchtmittelkonsum+Jugendliche+CH&amp;tbm=nws\">News@Suchtmittelkonsum Jugendliche CH</a>","children":[],"payload":{"lines":"33,34"}},{"content":"<a href=\"https://www.google.ch/search?q=Suchtmittelkonsum+Jugendliche+CH&amp;tbm=vid\">Videos@Suchtmittelkonsum Jugendliche CH</a>","children":[],"payload":{"lines":"34,35"}},{"content":"<a href=\"https://www.google.com/search?q=Gesundheitsrisiken+Jugendlicher\">Gesundheitsrisiken Jugendlicher</a>","children":[],"payload":{"lines":"35,36"}},{"content":"<a href=\"https://www.google.com/search?q=Präventionsmaßnahmen\">Präventionsmaßnahmen</a>","children":[],"payload":{"lines":"36,37"}},{"content":"<a href=\"https://www.google.com/search?q=Gesetzgebung+Tabakprodukte+Schweiz\">Gesetzgebung Tabakprodukte Schweiz</a>","children":[],"payload":{"lines":"37,38"}}],"payload":{"lines":"32,33"}}],"payload":{"lines":"1,2"}},{"colorFreezeLevel":2,"maxWidth":300,"initialExpandLevel":2})</script>
+</body>
+</html>
