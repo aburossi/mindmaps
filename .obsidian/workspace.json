@@ -97,14 +97,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transkripts/loud.md",
+                "file": "markdowns/65.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a9ed17d6c93656e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "markdowns/vorstellung.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transkripts/loud.md",
+                "file": "markdowns/vorstellung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transkripts/loud.md",
+                "file": "markdowns/vorstellung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transkripts/loud.md"
+                "file": "markdowns/vorstellung.md"
               }
             }
           }
@@ -231,9 +243,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23898d2331c6e4b0",
+  "active": "4a9ed17d6c93656e",
   "lastOpenFiles": [
+    "vorstellung.html",
     "markdowns/65.md",
+    "markdowns/vorstellung.md",
+    "transkripts/vorstellung.md",
     "transkripts/loud.md",
     "suchtmittel.html",
     "markdowns/suchtmittel.md",
