@@ -7,16 +7,13 @@ markmap:
 
 # Berufsbildnerkurs BBW
 
-## Tag 1
+## Präsenztag 1
 - [Unterrichtsmaterial](https://miro.com/app/board/uXjVKJ3WzE0=/?share_link_id=86501616930)
 
-## Tag 2
-- [Unterrichtsmaterial]()
+## Präsenztag 2
+- [Unterrichtsmaterial](https://miro.com/app/board/uXjVKCoAGvg=/?share_link_id=32046274203)
 
-## Tag 3
-- [Unterrichtsmaterial]()
-
-## Tag 4
+## Präsenztag 3
 - [Unterrichtsmaterial]()
 
 ## Asynchroner Tag
