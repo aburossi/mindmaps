@@ -8,12 +8,15 @@ markmap:
 # Berufsbildnerkurs BBW
 
 ## Präsenztag 1
-- [Unterrichtsmaterial](https://miro.com/app/board/uXjVKJ3WzE0=/?share_link_id=86501616930)
+- [Miroboard](https://miro.com/app/board/uXjVKJ3WzE0=/?share_link_id=86501616930)
+- [Unterrichtsmaterial](https://bbwch-my.sharepoint.com/:w:/g/personal/pietro_rossi_bbw_ch/EU8GFnzgohdKl7RSODsChVUBKQ152mD2_gZdoyW4Wvt63Q?e=4LGBah)
 
 ## Präsenztag 2
-- [Unterrichtsmaterial](https://miro.com/app/board/uXjVKCoAGvg=/?share_link_id=32046274203)
+- [Miroboard](https://miro.com/app/board/uXjVKCoAGvg=/?share_link_id=32046274203)
+- [Unterrichtsmaterial](https://bbwch-my.sharepoint.com/:w:/g/personal/pietro_rossi_bbw_ch/ER0wWRDiy6NJoWP5dE3JwQIBG9IIk2kVubNYHTkTkXPMNw?e=VFAtR7)
 
 ## Präsenztag 3
+- [Miroboard]()
 - [Unterrichtsmaterial]()
 
 ## Asynchroner Tag
